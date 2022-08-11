@@ -2,6 +2,7 @@ let cart = [];
 let modalQt = 1;
 let modalKey = 0;
 
+
 const c = (el)=>document.querySelector(el);
 const cs = (el)=>document.querySelectorAll(el);
 
@@ -88,6 +89,7 @@ c('.pizzaInfo--addButton').addEventListener('click', ()=>{
     updateCart();
     closeModal();
 });
+
 
 c('.menu-openner').addEventListener('click', () => {
     if(cart.length > 0) {
