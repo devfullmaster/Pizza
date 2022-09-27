@@ -1,9 +1,8 @@
 <h1 align="center" id="topo">Pizzaria Modal</h1>
 
 <div align="center">
-<img width='600px' src="./img/mockup.png" width="35px"/>
+<img width='600px' src="./images/mockup.png" width="35px"/>
 </div>
-
 
 ### 💻 Projeto
 
@@ -20,8 +19,6 @@ O projeto foi desenvolvido com as seguintes ferramentas:
 - HTML
 - CSS
 - JavaScrip
-
-
 
 ---
 
@@ -47,10 +44,9 @@ git clone https://github.com/devfullmaster/Pizza.git
 
 Esse projeto é licenciado pela MIT License. Clique [aqui](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)🔗 para mais detalhes.
 
-
 #### 💬 Sinta-se a vontade para entrar em contato
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devfullmaster/ ) [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devfullmaster) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@devfullmaster.dev)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devfullmaster/) [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devfullmaster) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@devfullmaster.dev)
 
 ---
 
